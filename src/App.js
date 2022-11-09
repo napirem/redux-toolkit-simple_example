@@ -5,7 +5,6 @@ import PostsList from "./features/posts/PostsList";
 export default function App() {
   return (
     <main className="App">
-      {/* <Counter /> */}
       <AddPostForm />
       <PostsList />
     </main>
